@@ -1,0 +1,15 @@
+MAKE,MODEL,TRIM,DISPLACEMENT,ENGINE_TYPE,NUM_GEARS,TRANSMISSION,DRIVE_TYPE,EXT_COLOR,INT_COLOR
+Chevrolet,Traverse,High Country,3.6,V6,9,automatic,AWD,Black Cherry Metallic,Jet Black/Clove
+GMC,Sierra,SLE,6.6,V8,10,automatic,4WD,Pacific Blue Metallic,Jet Black
+Chevrolet,Colorado,Z71,3.6,V6,8,automatic,4WD,Satin Steel Metallic,Jet Black
+Chevrolet,Colorado,LT,2.8,I4,6,automatic,RWD,Black,Jet Black
+GMC,Sierra,Denali,6.6,V8,10,automatic,4WD,Pacific Blue Metallic,Dark Walnut/Ash Grey
+GMC,Sierra,SLE,6.6,V8,10,automatic,4WD,Cayenne Red Tintcoat,Jet Black
+Chevrolet,Camaro,1SS,6.2,V8,10,automatic,RWD,Vivid Orange Metallic,null
+Chevrolet,Colorado,LT,3.6,V6,8,automatic,RWD,Satin Steel Metallic,Jet Black
+Chevrolet,Tahoe,LS,5.3,V8,10,automatic,4WD,Dark Ash Metallic,Gideon/Very Dark Atmosphere
+Chevrolet,Tahoe,LT,5.3,V8,10,automatic,4WD,Satin Steel Metallic,Jet Black
+Buick,Enclave,Premium,3.6,V6,9,automatic,AWD,White Frost Tricoat,Dark Galvanized with Ebon
+Chevrolet,Suburban,LT,5.3,V8,10,automatic,4WD,null,null
+Chevrolet,Equinox,LT,1.5,I4,6,automatic,AWD,Blue Glow Metallic,Jet Black
+Chevrolet,Suburban,LT,5.3,V8,10,automatic,4WD,Dark Ash Metallic,Jet Black
